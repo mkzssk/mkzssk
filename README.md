@@ -1,17 +1,23 @@
-<h1 align="center">✨ Привет!✨</h1>
+<!-- 🌸 Фоновая сакура-графика -->
+<p align="center">
+  <img src="https://i.gifer.com/origin/e1/e10e4488704b5a3ee5a4d2de40be7c2b.gif" width="100%" alt="Sakura background"/>
+</p>
+
+<!-- ✨ Текст поверх -->
+<h1 align="center">✨ Привет! Я — Гламурный Разработчик ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&lines=Добро+пожаловать!;Я+обожаю+код+и+стиль.;Гламур+в+каждой+строчке+кода!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&lines=Добро+пожаловать!;Я+люблю+красивый+код;Сакура+вдохновляет+на+разработку!" />
 </p>
 
 ---
 
 ## 💖 Обо мне
 
-💅 Я — страстный разработчик, который объединяет красоту и технологии  
-🧠 Пишу на: **JS**, **HTML/CSS**  
-🎨 Умею: делать красиво и удобно  
-🌍 Город: Москва  
+💅 Я — страстный разработчик, который объединяет эстетику и технологии  
+🧠 Стек: **Python**, **Flask**, **HTML/CSS**, **JS**  
+🌸 Фанат визуального кайфа  
+📍 Город: [Укажи свой]
 
 ---
 
@@ -21,19 +27,15 @@
   <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-db7093?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-f08080?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-ffc0cb?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-ffb6c1?style=for-the-badge&logo=flask&logoColor=black"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://i.gifer.com/f3.gif" width="600" alt="Sakura Blooming"/>
-</p>
-
----
-
-## 📫 Контакты
+## 📫 Связаться со мной
 
 <p align="center">
-  <a href="https://t.me/marxserv"><img src="https://img.shields.io/badge/Telegram-ff69b4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:@email.com"><img src="https://img.shields.io/badge/Email-db7093?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/ТВОЙ_ТГ"><img src="https://img.shields.io/badge/Telegram-ff69b4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-db7093?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
