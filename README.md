@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/3tBd.gif"/><h1 align="center"><img src="https://www.flaticon.com/ru/free-animated-icon/sakura_14204963"/> Привет! mkzssk 🌸</h1>
+<img src="https://i.gifer.com/3tBd.gif"/><h1 align="center"><img src="https://cdn-icons-mp4.flaticon.com/512/14204/14204963.mp4"/> Привет! mkzssk 🌸</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&lines=Добро+пожаловать!;Я+обожаю+код+и+стиль.;Стиль+в+каждой+строчке+кода!" />
