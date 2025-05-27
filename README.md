@@ -1,7 +1,7 @@
-<h1 align="center">✨ Привет! Я Гламурный Разработчик ✨</h1>
+<img src="https://i.gifer.com/3tBd.gif"/><h1 align="center">🌸 Привет! mkzssk 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&lines=Добро+пожаловать!;Я+обожаю+код+и+стиль.;Гламур+в+каждой+строчке+кода!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&lines=Добро+пожаловать!;Я+обожаю+код+и+стиль.;Стиль+в+каждой+строчке+кода!" />
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ## 💖 Обо мне
 
 💅 Я — страстный разработчик, который объединяет красоту и технологии  
-🧠 Пишу на: **Python**, **JS**, **HTML/CSS**  
+🧠 Пишу на: **JS**, **HTML/CSS**  
 🎨 Умею: делать красиво и удобно  
-🌍 Город: [Укажи свой]  
+🌍 Город: Москва  
 
 ---
 
@@ -35,7 +35,6 @@
 ## 📫 Контакты
 
 <p align="center">
-  <a href="https://t.me/ТВОЙ_ТГ"><img src="https://img.shields.io/badge/Telegram-ff69b4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-db7093?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ТВОЙ_ЛИНКЕДИН"><img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/marxserv"><img src="https://img.shields.io/badge/Telegram-ff69b4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-db7093?style=for-the-badge&logo=gmail&logoColor=white"/></aЮ
 </p>
