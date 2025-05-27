@@ -28,8 +28,7 @@
 ## ✨ GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkzssk&show_icons=true&theme=dracula&icon_color=ff69b4&title_color=ff69b4" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mkzssk&theme=dracula&ring=ff69b4" />
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/svg/banner_github.svg" />
 </p>
 
 ---
