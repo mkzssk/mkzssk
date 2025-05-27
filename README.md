@@ -1,9 +1,8 @@
-<p align="center" style="font-size: 28px;">
-  <span style="display: inline-flex; align-items: center; gap: 10px;">
-    <img src="https://i.gifer.com/VeC.gif" width="40" alt="wave"/>
-    <strong>Привет! mkzssk 🌸</strong>
-  </span>
-</p>
+<h1 align="center">
+  <img src="https://i.gifer.com/VeC.gif" width="65" style="vertical-align: middle;" />
+  Привет! mkzssk 
+  <img src="https://i.gifer.com/VeC.gif" width="65" style="vertical-align: middle;" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&lines=Добро+пожаловать!;Я+обожаю+код+и+стиль.;Стиль+в+каждой+строчке+кода!" />
