@@ -1,6 +1,6 @@
 <!-- 🌸 Фоновая сакура-графика -->
 <p align="center">
-  <img src="https://i.gifer.com/origin/e1/e10e4488704b5a3ee5a4d2de40be7c2b.gif" width="100%" alt="Sakura background"/>
+  <img src="https://i.gifer.com/f3.gif" width="100%" alt="Sakura background"/>
 </p>
 
 <!-- ✨ Текст поверх -->
