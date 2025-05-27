@@ -25,10 +25,8 @@
 
 ---
 
-## ✨ GitHub Статистика
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/svg/banner_github.svg" />
+  <img src="https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif" width="600" alt="Sakura Blooming"/>
 </p>
 
 ---
