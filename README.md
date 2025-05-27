@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&lines=Добро+пожаловать!;Я+обожаю+код+и+стиль.;Код+красив+как+цветущая+сакура!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&color=FF69B4&center=true&vCenter=true&lines=Добро+пожаловать+в+мой+профиль!;Я+обожаю+код+и+стиль.;Код+красив+как+цветущая+сакура!" />
 </p>
 
 ---
