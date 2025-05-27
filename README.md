@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/6nuiJjOOQBBn2/giphy.gif" width="600" alt="Sakura Blooming"/>
+  <img src="https://i.gifer.com/f3.gif" width="600" alt="Sakura Blooming"/>
 </p>
 
 ---
