@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://i.gifer.com/VeC.gif" width="65" style="vertical-align: middle;" />
-  Привет! Я mkzssk)
+  Привет! Я Мария)
   <img src="https://i.gifer.com/VeC.gif" width="65" style="vertical-align: middle;" />
 </h1>
 
